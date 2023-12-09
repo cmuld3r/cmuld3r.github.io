@@ -13,8 +13,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-# - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/cmuld3r'}
-- {icon: 'envelope',   link: 'mailto:cmuld3r@gmail.com'}
+# - {icon: 'linkedin',   link: ''}
+- {icon: 'envelope',   link: 'mailto:commonunity.net@gmail.com'}
 # - {icon: 'rss-square', link: '/feed.xml'}
 - {icon: 'rss-square', link: '/rss-feed.xml'}
 
